@@ -846,7 +846,9 @@
 }
 
 .mobile-menu__btn > span {
-  border: black 1px solid;
+  background-color: black;
+  width: 35px;
+  height: 2px;
   display: block;
   margin-bottom: 9px;
   -webkit-transition: all 0.5s ease-in-out;
